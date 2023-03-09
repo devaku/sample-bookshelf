@@ -1,0 +1,4 @@
+https://bookshelfjs.org/api.html
+https://knexjs.org/
+
+https://devhints.io/knex
