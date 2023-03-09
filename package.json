@@ -1,0 +1,28 @@
+{
+	"name": "sample-bookshelf",
+	"version": "1.0.0",
+	"description": "Sample program that utilizes the bookshelf package",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon index.js"
+	},
+	"keywords": [
+		"NodeJS",
+		"knex",
+		"bookshelf"
+	],
+	"author": "devaku",
+	"license": "ISC",
+	"dependencies": {
+		"bookshelf": "^1.2.0",
+		"express": "^4.18.2",
+		"knex": "^2.4.2",
+		"mysql": "^2.18.1"
+	},
+	"devDependencies": {
+		"@faker-js/faker": "^7.6.0",
+		"dotenv": "^16.0.3",
+		"nodemon": "^2.0.21"
+	}
+}
